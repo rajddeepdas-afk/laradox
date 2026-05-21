@@ -1,7 +1,7 @@
 {
-  "name": "AFK Bot",
+  "name": "laradox",
   "bot-account": {
-    "username": "ext_alt",
+    "username": "laradox",
     "password": "89000x",
     "type": "offline"
   },
@@ -64,7 +64,7 @@
   "modules": {
     "avoidMobs": true,
     "combat": true,
-    "beds": true,
+    "beds": false,
     "chat": true,
     "console-commands": true
   },
